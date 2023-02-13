@@ -1,6 +1,6 @@
 # PsychopathologyPrediction
 
-This package contains the codes for training and predicting general psychopathology based on functional connectivity, structural connectivity, morphological features and clinila factors. Any questions about the code, please contact xiajing0904@gmail.com.
+This package contains the codes for training and predicting general psychopathology based on functional connectivity, structural connectivity, morphological features and clinila factors. Any questions about the code, please contact us.
 
 ===============================================================================
 Environments:
